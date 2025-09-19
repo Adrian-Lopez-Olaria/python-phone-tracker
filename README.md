@@ -20,7 +20,7 @@ Este repositorio contiene una herramienta de **geolocalización de números tele
 
 ### Ejecución del Script de Setup
 
-El proyecto incluye un script de automatización que prepara todo el entorno:
+El proyecto incluye un script de automatización que prepara todo el entorno:![script](preparacion.sh)
 
 ```bash
 # Dar permisos de ejecución al script
