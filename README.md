@@ -4,7 +4,9 @@
 
 Este proyecto es una herramienta de **geolocalización de números telefónicos** desarrollada en Python. Permite obtener información de ubicación a partir de un número de teléfono utilizando APIs de geocodificación y la librería `phonenumbers`.
 
-**⚠️ Nota importante**: Esta herramienta se ha desarrollado únicamente con fines educativos y de investigación legítima. El uso debe cumplir siempre con las leyes locales de privacidad y protección de datos.
+**⚠️ Nota importante**: Esta herramienta se ha desarrollado únicamente con fines educativos y de investigación legítima. El uso debe cumplir siempre con las leyes locales de privacidad y protección de datos. 
+
+**🔐 Ética de prueba**: Todas las pruebas realizadas durante el desarrollo utilizaron **números de ejemplo públicos y permitidos**, específicamente diseñados para testing (como el número +12065550100, que es un número de prueba estándar). En ningún caso se utilizaron números personales reales sin autorización explícita.
 
 ## 🎯 Funcionalidades
 
