@@ -37,8 +37,6 @@ sudo ./setup_locate_number.sh
 4. ✅ Instala todas las dependencias necesarias
 5. ✅ Configura el ambiente para uso inmediato
 
-![Configuración del Entorno](media/abriendo-el-archivo.png)
-*Estructura de archivos después de la instalación - como se observa, se crea el entorno virtual y los scripts necesarios*
 
 ## 🔑 Obtención de la API Key
 
@@ -128,6 +126,9 @@ El archivo HTML generado contiene un mapa interactivo de Folium:
 # Abrir el mapa en el navegador
 xdg-open myLocation.html
 ```
+
+![Configuración del Entorno](media/abriendo-el-archivo.png)
+*Archivo generado*
 
 ![Mapa de Localización](media/localizacion.png)
 *Mapa interactivo generado con la ubicación estimada - muestra la región aproximada*
